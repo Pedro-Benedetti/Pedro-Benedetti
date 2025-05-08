@@ -21,7 +21,7 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
@@ -43,7 +43,7 @@
 Plataforma de adoção de cachorros com filtros por características, cards personalizados e integração com banco de dados.
 > 🔗 [Repositório no GitHub](https://github.com/Pedro-Benedetti/adote-um-amigo)
 
-### 🚗 CarCRUDList
+### 🚗 API CRUD de Carros
 Aplicação CRUD completa para cadastro, listagem e exclusão de carros, com interface intuitiva e back-end funcional.
 > 🔗 [Repositório no GitHub](https://github.com/Pedro-Benedetti/CarCRUDList)
 
@@ -53,7 +53,7 @@ Aplicação CRUD completa para cadastro, listagem e exclusão de carros, com int
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-benedetti-borba)
 - [GitHub](https://github.com/Pedro-Benedetti)
-- ✉️ pedro.benedetti@gmail.com
+- Email: pedro.benedetti@gmail.com
 
 ---
 
