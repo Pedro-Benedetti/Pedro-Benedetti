@@ -21,13 +21,18 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </div>
 
 ---
@@ -35,14 +40,12 @@
 ## 💼 Projetos em Destaque
 
 ### 🐶 Adote um Amigo
-Plataforma de adoção de cachorros com filtros, cards personalizados e integração com banco de dados.
+Plataforma de adoção de cachorros com filtros por características, cards personalizados e integração com banco de dados.
 > 🔗 [Repositório no GitHub](https://github.com/Pedro-Benedetti/adote-um-amigo)
 
-### 🎮 Jogo da Memória
-Jogo simples feito com React.js, com lógica de pares, placar e animações.
-> 🔗 [Repositório no GitHub](https://github.com/Pedro-Benedetti/jogo-da-memoria)
-
-*(adicione aqui os links reais dos seus projetos ou me avise para personalizar mais)*
+### 🚗 CarCRUDList
+Aplicação CRUD completa para cadastro, listagem e exclusão de carros, com interface intuitiva e back-end funcional.
+> 🔗 [Repositório no GitHub](https://github.com/Pedro-Benedetti/CarCRUDList)
 
 ---
 
