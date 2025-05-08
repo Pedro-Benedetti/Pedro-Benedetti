@@ -52,8 +52,7 @@ Aplicação CRUD completa para cadastro, listagem e exclusão de carros, com int
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-benedetti-borba)
-- [GitHub](https://github.com/Pedro-Benedetti)
-- Email: pedro.benedetti@gmail.com
+- [Email](pedro.benedetti@gmail.com)
 
 ---
 
